@@ -1,2 +1,2 @@
 # MDS_UNI
-Códigos de los docentes de la maetría
+Códigos desarrollados en la maetría
